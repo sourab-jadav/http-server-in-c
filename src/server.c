@@ -12,6 +12,24 @@ int main(){
     /* int gamil8 = 99; */
 
 
+    /* Data Types in c */
+
+    /* int char float double void */ /* primitive */
+    // quilifiers :-
+    //
+    // short
+    // long
+    // signed
+    // unsigned
+
+
+
+    /* structure Unioin Enum */ /* secondary */
+
+    /* printf("%d\n",sizeof(int)); */
+    /* printf("%d\n",sizeof(short)); */
+    /* printf("%d\n",sizeof(double)); */
+
 
     return 0;
 }
